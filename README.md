@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PortfolioWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
@@ -29,3 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # portfolio-likith
 >>>>>>> 9c25223b97e4a8e21aeb379b5227f4b222b6cf19
+=======
+# Portfolio
+This is my portfolio
+>>>>>>> 61f7fd6a8d538c5f2859a85496aaa5ed3e868f6a
